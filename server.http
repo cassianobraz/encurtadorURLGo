@@ -1,0 +1,12 @@
+@baseUrl = http://localhost:8080
+
+POST  {{baseUrl}}/api/shorten
+Content-Type: application/json
+
+{
+    "url": "https://google.com"
+}
+
+###
+
+GET {{baseUrl}}/eTgpLYzq
