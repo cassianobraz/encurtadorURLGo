@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/cassianobraz/encurtadorURLGo/api"
+	"github.com/cassianobraz/encurtadorURLGo/internal/api"
 )
 
 func main() {
