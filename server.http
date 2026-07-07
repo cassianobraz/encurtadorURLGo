@@ -9,4 +9,4 @@ Content-Type: application/json
 
 ###
 
-GET {{baseUrl}}/eTgpLYzq
+GET {{baseUrl}}/{code}
